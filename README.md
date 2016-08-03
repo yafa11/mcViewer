@@ -1,5 +1,5 @@
 # mcViewer
-GUI for viewing the contents and managing the keys on one or more memcache servers.
+A GUI/interface for finding and viewing the contents of keys on one or more memcache servers.
 
 Installation
 ------------

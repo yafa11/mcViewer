@@ -1,5 +1,5 @@
 {
-  "name": "yafa11/mcViewer",
+  "name": "yafa11/mc-viewer",
   "description": "Memcache key viewer",
   "keywords": ["memcache","inspect","viewer","slab"],
   "homepage": "https://github.com/yafa11/mcViewer",
