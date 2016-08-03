@@ -1,0 +1,21 @@
+{
+  "name": "yafa11/mcViewer",
+  "description": "Memcache key viewer",
+  "keywords": ["memcache","inspect","viewer","slab"],
+  "homepage": "https://github.com/yafa11/mcViewer",
+  "license": "MIT",
+
+  "require": {
+    "php": ">=5.4.0"
+  },
+
+  "require-dev": {
+    "phpunit/PHPUnit": "~4.0"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "Yafa11\\McViewer\\": "src/"
+    }
+  }
+}

@@ -1,0 +1,4 @@
+[memcache_servers]
+Default = 127.0.0.1:11211
+Server2 = 127.0.0.1:11311
+Server3 = 10.0.0.1:11211
