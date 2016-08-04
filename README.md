@@ -10,7 +10,7 @@ Installation
 
 From the command line
     
-        composer require yafa11/mc-viewer: @stable
+        composer require yafa11/mc-viewer:@stable
 
 
 #### As a library to an existing project:
