@@ -21,23 +21,23 @@ In your projects composer.json file add:
 
         {
             "require": {
-                "yafa11/mci-viewer": "@stable"
+                "yafa11/mc-viewer": "@stable"
             }
         }
 
 
 
-The packages adheres to the [SemVer](http://semver.org/) specification, and there will be full backward compatibility
+The packages adheres to the [SemVer](http://semver.org/) specification, and will maintian full backwards compatibility
 between minor versions.
 
 ### Create a config.ini file
 Copy /src/config/config.ini.example to /src/config/config.ini and modify it to match your cache server setup.
 
 
-Usage
+Basic Usage
 -----
 ### Stand alone usage:
-From /src/public run php -S 127.0.0.1:8888
+From vendor/yafa11/mc-viewer/public run 'php -S 127.0.0.1:8888'
 In a browser navigate to http://127.0.0.1:8888
 
 ### As part of another project
